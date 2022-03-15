@@ -1,16 +1,18 @@
-### Hi there 👋
+![Shadow of the colossus galloping](https://raw.githubusercontent.com/GustavoAriadno/GustavoAriadno/main/.github/images/Shadow-of-the-Colossus.jpg)
 
-<!--
-**GustavoAriadno/gustavoariadno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+I'm Gustavo Ariadno a self-learner and knowledge appreciator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍🚀 Cadet at 42 São Paulo
+#### 🕵️ I’m currently searching for a job
+#### 🚀 I’m currently learning CPP
+</br>
+
+[![Linkedin](https://img.shields.io/badge/-Gustavo%20Ariadno-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavoariadno/)
+
+---
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoariadno&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

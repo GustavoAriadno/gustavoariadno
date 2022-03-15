@@ -9,7 +9,7 @@ I'm Gustavo Ariadno a self-learner and knowledge appreciator.
 #### 🚀 I’m currently learning CPP
 </br>
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo%20Ariadno-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavoariadno/)
+[![Linkedin](https://img.shields.io/badge/-Gustavo%20Ariadno-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoariadno/)
 
 ---
 
